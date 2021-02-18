@@ -1,0 +1,45 @@
+img{
+	width: 200px;
+}
+body{
+	color: white;
+	background:rgb(230, 230, 230);
+	font-family: 'Newsreader', serif;
+	font-size: 16px;
+	text-align: center;
+	line-height: 50px;
+
+}
+
+h1 {
+	color: white;
+	font-size: 36px;
+}
+
+h2{
+	color: white;
+	font-size: 29px;
+	font-weight: lighter;
+	background-position: center;
+}
+
+div{
+	background-color: #1E212D;
+	padding: 50px;
+	margin: 60px auto;
+	box-shadow: rgba(0,0,0,0.3) 0px 10px 30px;
+	border-radius: 10px;
+	background-position: center;
+	width: 550px;
+
+
+}
+
+li{
+	list-style: none;
+}
+
+i{
+	font-size: 45px;
+	color: white;
+}
